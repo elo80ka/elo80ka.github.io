@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Name the 7 wastes in TIMWOOD",
+    "answer": "Transport, Inventory, motion, waiting, over processing, over production and Defect"
+  },
+  {
+    "question": "LIst the 4th and the 5th items which make up the Kaizen way",
+    "answer": "Make only what is pulled by the customer Just-In-Time\nAim for true North"
+  },
+  {
+    "question": "How many Change principles are there?",
+    "answer": "5"
+  },
+  {
+    "question": "In NLNG, value is classified in 4 broad categories. Name them",
+    "answer": "Process/HSE Improvements, Cost SAvings/Avoidance. Revenue Addition and Producction Impact"
+  },
+  {
+    "question": "In the Initiative L-Gate. L3 is for what",
+    "answer": "Implement"
+  },
+  {
+    "question": "As with most things, ideas are numerous, but resources are scarce. To ensure only the best and most relevant initiatives survives. All initiatives should be subject to the how many Selection Criteria:",
+    "answer": "1. Time to Implement\n2. Payback Period\n3. Resource Intensity\n4.Readiness"
+  },
+  {
+    "question": "In Hoshin Deployment, Breakthrough objectives target performance in the following areas",
+    "answer": "Growth/Innovation, Quality, Cost, Delivery, Motivation"
+  },
+  {
+    "question": "In the Hoshin, the improvement priorities are on what quadrant of the X-matrix",
+    "answer": "North"
+  },
+  {
+    "question": "Value Stream Mapping focuses on reduction in 2 key metrics. Name them",
+    "answer": "1. Throughput time and Cost"
+  },
+  {
+    "question": "The Process Map helps us visual end to end a process in our operations. How many steps are there in a process mapping exercise",
+    "answer": "12"
+  },
+  {
+    "question": "What are the four steps of Project Initiation?",
+    "answer": "Scope & goals, organisation structure, deliverables structure and project plan"
+  },
+  {
+    "question": "For process optimisation list the 5 steps approach for process improvement",
+    "answer": "Process selection, Current Stata Analysis, Opportunities Identification, Future State Design, Implementation"
+  },
+  {
+    "question": "Why is it important to have last planner meetings?",
+    "answer": "To plan and evaluate the execution of tasks"
+  },
+  {
+    "question": "In the sourcing Matrix, when should we Improve the \"negotiation Methods\"",
+    "answer": "When the market has \"Low Supply Power\" And we have \"High Demand power\""
+  },
+  {
+    "question": "In the sourcing Matrix, when should we apply \"Re-engineering Methods\"",
+    "answer": "When a specific part is economical underperforming comparing to other similar parts"
+  },
+  {
+    "question": "What is Minitab used for?",
+    "answer": "Minitab is used for data analysis and provides tools to perform statistical analysis"
+  },
+  {
+    "question": "What are the Focus in BI?",
+    "answer": "Reports, KPIs and trends"
+  },
+  {
+    "question": "A Mizusumashi is a machine. True or False?",
+    "answer": "False. Mizusumashi is a logistic operator"
+  },
+  {
+    "question": "Mizusumashi, normally is not as productive as a Forklift driver. True or false?",
+    "answer": "False. Mizusumashi is applied to improve logistics operations often replacing forklifts in internal logistics"
+  },
+  {
+    "question": "Normally a Mizusumashi is a logistic train bigger that 6 wagons. True or false?",
+    "answer": "False, it can be a person using only a tray with materials. Mizusumashi is a logistic operator with clear roles for materials movements."
+  }
+]
